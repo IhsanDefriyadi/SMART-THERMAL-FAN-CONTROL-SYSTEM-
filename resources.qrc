@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/hot.png</file>
+        <file>icons/cold.png</file>
+        <file>icons/humidity.png</file>
+        <file>icons/fan-on.png</file>
+        <file>icons/fan-off.png</file>
+        <file>icons/automatic.png</file>
+        <file>icons/manual.png</file>
+        <file>icons/servo.png</file>
+        <file>icons/power.png</file>
+    </qresource>
+</RCC> 
